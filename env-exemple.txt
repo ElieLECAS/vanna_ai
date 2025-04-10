@@ -1,0 +1,15 @@
+PYTHONPATH=./files
+
+# Database connection settings
+# DB_SERVER=
+DB_SERVER=
+DB_DATABASE=
+DB_USER=
+DB_PASSWORD=
+DB_TRUST_SERVER_CERTIFICATE=yes
+
+DRIVER=ODBC Driver 18 for SQL Server
+
+
+
+OPENAI_API_KEY=

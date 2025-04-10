@@ -52,7 +52,6 @@ log/
 # Fichiers de clés et secrets
 *.pem
 *.key
-env-exemple.txt
 
 # Dossiers de sortie et temporaires
 tmp/
