@@ -1,0 +1,60 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Environnements Python
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Fichiers de configuration IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Fichiers de logs
+*.log
+logs/
+log/
+
+# Fichiers de base de données
+*.sqlite3
+*.db
+
+# Fichiers de clés et secrets
+*.pem
+*.key
+env-exemple.txt
+
+# Dossiers de sortie et temporaires
+tmp/
+temp/
+output/
