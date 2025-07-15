@@ -1,0 +1,5 @@
+# Configuration pour SQLite
+SQLITE_DB_PATH=database.db
+
+# Configuration OpenAI (gardez la même que précédemment)
+OPENAI_API_KEY=votre_clé_openai_ici 
